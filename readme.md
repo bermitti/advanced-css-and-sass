@@ -1,4 +1,5 @@
 # Sass
+ [ advanced-css-and-sass ]
 # архитектура проекта для Sass
 
 ### index.html
@@ -22,5 +23,3 @@
 - pages
     - _home.sass
 - main.sass
-
-* [ https://www.udemy.com/advanced-css-and-sass/ ]
